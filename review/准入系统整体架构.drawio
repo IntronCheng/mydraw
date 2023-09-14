@@ -1,9 +1,117 @@
-<mxfile host="app.diagrams.net" modified="2023-09-14T06:56:42.016Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.3.8" etag="ZbuNIjMU9KlTa9fpDNPL" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-14T08:04:22.723Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="X6tTDzz8LSUfcXiWrx0Z" version="21.3.8" type="github">
   <diagram name="第 1 页" id="vHmKvx8SxgZlbCaQa-oz">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xL96frPRYpcg-0mEKQwI-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ebf1df;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="20" y="190" width="840" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="xL96frPRYpcg-0mEKQwI-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d6e4be;strokeColor=#c3bbbb;" vertex="1" parent="1">
+          <mxGeometry x="100" y="200" width="300" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="xL96frPRYpcg-0mEKQwI-3" value="&lt;b&gt;机构准入&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xL96frPRYpcg-0mEKQwI-5" value="机构准入申请单&lt;br&gt;增加/变更/查询/下载" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d6eaae;strokeColor=#262725;fontColor=default;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="123" y="240" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xL96frPRYpcg-0mEKQwI-6" value="风控审批申请单&lt;br&gt;变更/查询/下载" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d6eaae;strokeColor=#262725;" vertex="1" parent="1">
+          <mxGeometry x="123" y="300" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xL96frPRYpcg-0mEKQwI-7" value="流量子版位初审申请&lt;br&gt;变更/查询/下载" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d6eaae;strokeColor=#262725;" vertex="1" parent="1">
+          <mxGeometry x="123" y="360" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xL96frPRYpcg-0mEKQwI-8" value="流量子版位复审申请&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;变更/查询/下载" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d6eaae;strokeColor=#262725;" vertex="1" parent="1">
+          <mxGeometry x="258" y="240" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xL96frPRYpcg-0mEKQwI-9" value="定时给审批员发通知" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d6eaae;strokeColor=#262725;" vertex="1" parent="1">
+          <mxGeometry x="258" y="300" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xL96frPRYpcg-0mEKQwI-10" value="同步维表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d6eaae;strokeColor=#262725;" vertex="1" parent="1">
+          <mxGeometry x="258" y="340" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xL96frPRYpcg-0mEKQwI-11" value="全量同步白名单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d6eaae;strokeColor=#262725;" vertex="1" parent="1">
+          <mxGeometry x="258" y="380" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xL96frPRYpcg-0mEKQwI-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d6e4be;strokeColor=#c3bbbb;" vertex="1" parent="1">
+          <mxGeometry x="414" y="200" width="430" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="xL96frPRYpcg-0mEKQwI-13" value="&lt;b&gt;品械准入&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="602" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xL96frPRYpcg-0mEKQwI-14" value="品械准入申请单&lt;br&gt;增加/变更/查询/下载" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d6eaae;strokeColor=#262725;" vertex="1" parent="1">
+          <mxGeometry x="437" y="240" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xL96frPRYpcg-0mEKQwI-15" value="风控审批申请单&lt;br&gt;变更/查询/下载" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d6eaae;strokeColor=#262725;" vertex="1" parent="1">
+          <mxGeometry x="437" y="300" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xL96frPRYpcg-0mEKQwI-16" value="流量子版位初审申请&lt;br&gt;变更/查询/下载" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d6eaae;strokeColor=#262725;" vertex="1" parent="1">
+          <mxGeometry x="437" y="360" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xL96frPRYpcg-0mEKQwI-17" value="流量子版位复审申请&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;变更/查询/下载" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d6eaae;strokeColor=#262725;" vertex="1" parent="1">
+          <mxGeometry x="572" y="240" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xL96frPRYpcg-0mEKQwI-18" value="商品资质查询" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d6eaae;strokeColor=#262725;" vertex="1" parent="1">
+          <mxGeometry x="572" y="300" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xL96frPRYpcg-0mEKQwI-19" value="商品类目查询" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d6eaae;strokeColor=#262725;" vertex="1" parent="1">
+          <mxGeometry x="572" y="340" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xL96frPRYpcg-0mEKQwI-20" value="全量同步白名单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d6eaae;strokeColor=#262725;" vertex="1" parent="1">
+          <mxGeometry x="572" y="380" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xL96frPRYpcg-0mEKQwI-21" value="定时给审批员发通知" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d6eaae;strokeColor=#262725;" vertex="1" parent="1">
+          <mxGeometry x="704" y="380" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xL96frPRYpcg-0mEKQwI-22" value="同步维表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d6eaae;strokeColor=#262725;" vertex="1" parent="1">
+          <mxGeometry x="704" y="340" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xL96frPRYpcg-0mEKQwI-23" value="同步商品信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d6eaae;strokeColor=#262725;" vertex="1" parent="1">
+          <mxGeometry x="704" y="300" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xL96frPRYpcg-0mEKQwI-24" value="账户与商品ID绑定&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;增加/解绑/查询" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d6eaae;strokeColor=#262725;" vertex="1" parent="1">
+          <mxGeometry x="704" y="240" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xL96frPRYpcg-0mEKQwI-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d6e4be;strokeColor=#c3bbbb;" vertex="1" parent="1">
+          <mxGeometry x="100" y="440" width="300" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="xL96frPRYpcg-0mEKQwI-26" value="&lt;b&gt;创意准入&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xL96frPRYpcg-0mEKQwI-27" value="创意准入申请单&lt;br&gt;增加/变更/查询/下载" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d6eaae;strokeColor=#262725;" vertex="1" parent="1">
+          <mxGeometry x="123" y="480" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xL96frPRYpcg-0mEKQwI-30" value="合规/风控/流量审批" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d6eaae;strokeColor=#262725;" vertex="1" parent="1">
+          <mxGeometry x="258" y="480" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xL96frPRYpcg-0mEKQwI-34" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d6e4be;strokeColor=#c3bbbb;" vertex="1" parent="1">
+          <mxGeometry x="414" y="440" width="430" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="xL96frPRYpcg-0mEKQwI-35" value="&lt;b&gt;品类准入&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="602" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xL96frPRYpcg-0mEKQwI-36" value="创意准入申请单&lt;br&gt;增加/变更/查询/下载" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d6eaae;strokeColor=#262725;" vertex="1" parent="1">
+          <mxGeometry x="437" y="480" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xL96frPRYpcg-0mEKQwI-37" value="合规/风控/流量审批" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d6eaae;strokeColor=#262725;" vertex="1" parent="1">
+          <mxGeometry x="572" y="480" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xL96frPRYpcg-0mEKQwI-38" value="主体信息查询" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d6eaae;strokeColor=#262725;" vertex="1" parent="1">
+          <mxGeometry x="704" y="480" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xL96frPRYpcg-0mEKQwI-39" value="&lt;b&gt;管理模块&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="30" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xL96frPRYpcg-0mEKQwI-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="20" y="570" width="840" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="xL96frPRYpcg-0mEKQwI-41" value="&lt;b&gt;核心服务&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="30" y="675" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xL96frPRYpcg-0mEKQwI-42" value="机构准入申请单&lt;br&gt;增加/变更/查询/下载" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9e29f;strokeColor=#1b1a18;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="110" y="600" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

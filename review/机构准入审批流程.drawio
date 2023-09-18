@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-18T08:42:21.455Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="9L2KQJ-Z36NZFg-XO6kX" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-18T09:20:15.851Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="uG9bpk3PsVr20WwwQ-3l" version="21.3.8" type="github">
   <diagram name="第 1 页" id="CP4XtAfgcPpansTnQI8Z">
     <mxGraphModel dx="1026" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -173,7 +173,7 @@
         <mxCell id="SgMBypqyhC2RkQjzOctU-67" value="发送风控审批邮件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff9e5;fontColor=default;strokeColor=#0f0f0f;" vertex="1" parent="1">
           <mxGeometry x="95" y="650" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SgMBypqyhC2RkQjzOctU-69" value="发送流量子版位审批邮件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffebd6;fontColor=default;strokeColor=#000033;" vertex="1" parent="1">
+        <mxCell id="SgMBypqyhC2RkQjzOctU-69" value="发送流量子版位初审邮件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffebd6;fontColor=default;strokeColor=#000033;" vertex="1" parent="1">
           <mxGeometry x="355" y="650" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SgMBypqyhC2RkQjzOctU-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SgMBypqyhC2RkQjzOctU-71" target="SgMBypqyhC2RkQjzOctU-73">
@@ -206,8 +206,14 @@
         <mxCell id="SgMBypqyhC2RkQjzOctU-79" value="记录更新日志" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9e2e1;fontColor=default;strokeColor=#0d0c0c;" vertex="1" parent="1">
           <mxGeometry x="615" y="530" width="190" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="SgMBypqyhC2RkQjzOctU-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SgMBypqyhC2RkQjzOctU-80" target="SgMBypqyhC2RkQjzOctU-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SgMBypqyhC2RkQjzOctU-80" value="同步白名单和审核小蓝标" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9e2e1;fontColor=default;strokeColor=#0d0c0c;" vertex="1" parent="1">
           <mxGeometry x="615" y="590" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SgMBypqyhC2RkQjzOctU-82" value="发送流量子版位复审邮件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9e2e1;fontColor=default;strokeColor=#0d0c0c;" vertex="1" parent="1">
+          <mxGeometry x="615" y="650" width="190" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

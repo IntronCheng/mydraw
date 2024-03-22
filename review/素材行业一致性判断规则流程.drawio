@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T06:41:41.114Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="T_LH-wHCyr7Mla2C1jF3" version="24.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-22T06:52:12.029Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="R6sWIWUXkzbU0dKN7fvt" version="24.0.6" type="github">
   <diagram name="第 1 页" id="BipRaJ-xRFGCJ36Mq6vx">
     <mxGraphModel dx="2514" dy="1067" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,8 +63,8 @@
         <mxCell id="JBGGcqQvnX22bjil79P1-20" value="分类器后置规则" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="191" y="615" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JBGGcqQvnX22bjil79P1-27" value="模型识别二级行业为：房地产开发商, 房地产中介服务，&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;汽车-4S店/经销商, 汽车厂商-自主,&lt;/span&gt;&lt;div&gt;汽车厂商-合资, 汽车厂商-外资&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="548" y="666" width="339" height="60" as="geometry" />
+        <mxCell id="JBGGcqQvnX22bjil79P1-27" value="模型识别二级行业为：房地产开发商, 房地产中介服务，&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;汽车-4S店/经销商, 汽车厂商-自主,&lt;/span&gt;&lt;div&gt;汽车厂商-合资, 汽车厂商-外资&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;1. 带 OCR 识别的五个二级行业存在一个在名单中&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;2. 不带 OCR 识别的五个二级行业存在一个在名单中&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="547" y="637" width="339" height="118" as="geometry" />
         </mxCell>
         <mxCell id="JBGGcqQvnX22bjil79P1-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="211.5" y="642" width="267.5" height="81" as="geometry" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T06:46:52.158Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="pxi1-i7KfwEcl9OzGpyz" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T06:47:42.307Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Sw-20adNBu_MfJd0q8Xk" version="24.0.7" type="github">
   <diagram name="第 1 页" id="x18Nz3PmkXScucSuXF-4">
     <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -90,7 +90,7 @@
         <mxCell id="PVem1NfU_iiGMHJAyd7u-38" value="后处理服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="PVem1NfU_iiGMHJAyd7u-36">
           <mxGeometry width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PVem1NfU_iiGMHJAyd7u-39" value="&lt;font color=&quot;#ff00ff&quot;&gt;&lt;b&gt;新增预审后处理接口&lt;/b&gt;&lt;/font&gt;，主要逻辑：&lt;div&gt;1. 计算元素实际通道的审核结果和风险等级&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PVem1NfU_iiGMHJAyd7u-36">
+        <mxCell id="PVem1NfU_iiGMHJAyd7u-39" value="&lt;font color=&quot;#ff00ff&quot;&gt;&lt;b&gt;新增预审后处理接口&lt;/b&gt;&lt;/font&gt;，主要逻辑：&lt;div&gt;1. 计算元素实际通道的风险等级&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PVem1NfU_iiGMHJAyd7u-36">
           <mxGeometry x="9.5" y="30" width="240.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PVem1NfU_iiGMHJAyd7u-40" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -102,7 +102,7 @@
         <mxCell id="PVem1NfU_iiGMHJAyd7u-24" value="EVENT 服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="PVem1NfU_iiGMHJAyd7u-40">
           <mxGeometry width="89" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PVem1NfU_iiGMHJAyd7u-25" value="&lt;font color=&quot;#ff00ff&quot;&gt;&lt;b&gt;新增新预审接口&lt;/b&gt;&lt;/font&gt;，主要逻辑：&lt;div&gt;1. 调用预处理服务，封装总控需要的ReviewData&lt;/div&gt;&lt;div&gt;2. 调用总控，获取各元素在各通道的审核结果&lt;/div&gt;&lt;div&gt;3. 调用后处理，计算元素的最终审核结果&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PVem1NfU_iiGMHJAyd7u-40">
+        <mxCell id="PVem1NfU_iiGMHJAyd7u-25" value="&lt;font color=&quot;#ff00ff&quot;&gt;&lt;b&gt;新增新预审接口&lt;/b&gt;&lt;/font&gt;，主要逻辑：&lt;div&gt;1. 调用预处理服务，封装总控需要的ReviewData&lt;/div&gt;&lt;div&gt;2. 调用总控，获取各元素在各通道的审核结果&lt;/div&gt;&lt;div&gt;3. 调用后处理，计算元素的最终风险等级&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PVem1NfU_iiGMHJAyd7u-40">
           <mxGeometry x="18" y="26" width="271" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PVem1NfU_iiGMHJAyd7u-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PVem1NfU_iiGMHJAyd7u-9" target="PVem1NfU_iiGMHJAyd7u-23">

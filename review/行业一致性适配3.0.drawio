@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-15T12:15:42.802Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="HASYiddBa3jkRjZL__ND" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-15T12:17:17.514Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Qoi49HyFmD6dy9-whW9p" version="24.5.4" type="github">
   <diagram name="第 1 页" id="zHIpZjy6PMiovDAVbHQT">
-    <mxGraphModel dx="1912" dy="1060" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1912" dy="1255" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,7 +52,7 @@
         <mxCell id="Nu3pvbdkaj5OEZs3Bjh5-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="323.5" y="834" width="267.5" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="Nu3pvbdkaj5OEZs3Bjh5-22" value="返回REJECT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nu3pvbdkaj5OEZs3Bjh5-22" value="返回PASS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="705" y="1229.5" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Nu3pvbdkaj5OEZs3Bjh5-23" value="覆盖行业名单规则" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -82,7 +82,7 @@
         <mxCell id="Nu3pvbdkaj5OEZs3Bjh5-32" value="根据不同行业设定不同置信度标准" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=left;spacingLeft=23;" vertex="1" parent="1">
           <mxGeometry x="660" y="1016" width="252" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nu3pvbdkaj5OEZs3Bjh5-33" value="返回PASS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nu3pvbdkaj5OEZs3Bjh5-33" value="返回REJECT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="407" y="1322" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Nu3pvbdkaj5OEZs3Bjh5-34" value="返回NOT_SURE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-15T12:17:17.514Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Qoi49HyFmD6dy9-whW9p" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-17T03:24:11.632Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="nLMXiDSxDkJB0xkXs1gM" version="24.5.4" type="github">
   <diagram name="第 1 页" id="zHIpZjy6PMiovDAVbHQT">
-    <mxGraphModel dx="1912" dy="1255" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1912" dy="952" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -179,6 +179,9 @@
         </mxCell>
         <mxCell id="Nu3pvbdkaj5OEZs3Bjh5-69" value="1. 模型识别的首选二级行业为：&lt;div&gt;房地产开发商, 房地产中介服务，&lt;span style=&quot;background-color: initial;&quot;&gt;汽车-4S店/经销商, 汽车厂商-自主,&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;汽车厂商-合资, 汽车厂商-外资&lt;/span&gt;&lt;/div&gt;&lt;div&gt;2. 开户一级行业或&lt;span style=&quot;background-color: initial;&quot;&gt;模型识别首选一级行业为&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;医疗健康&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="682" y="848" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Nu3pvbdkaj5OEZs3Bjh5-71" value="文本元素直接用文本，图片元素用图片ocr文本过" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="645" y="715" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,9 +1,87 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="第 1 页" id="hUaWzWpyhOnghg66_y1X">
-    <mxGraphModel>
+    <mxGraphModel dx="199" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6ZN-WrgH_UTho_y8kFjV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6ZN-WrgH_UTho_y8kFjV-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ZN-WrgH_UTho_y8kFjV-2" value="实验ID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="6ZN-WrgH_UTho_y8kFjV-1">
+          <mxGeometry x="-0.089" y="1" relative="1" as="geometry">
+            <mxPoint y="-55" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ZN-WrgH_UTho_y8kFjV-3" value="&lt;b&gt;实验后台&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="600" width="350" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZN-WrgH_UTho_y8kFjV-4" value="&lt;b&gt;机审&lt;/b&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="460" width="350" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZN-WrgH_UTho_y8kFjV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6ZN-WrgH_UTho_y8kFjV-7" target="6ZN-WrgH_UTho_y8kFjV-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZN-WrgH_UTho_y8kFjV-6" value="实验ID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="6ZN-WrgH_UTho_y8kFjV-5">
+          <mxGeometry x="-0.111" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ZN-WrgH_UTho_y8kFjV-7" value="&lt;b&gt;人审&lt;/b&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="460" width="370" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZN-WrgH_UTho_y8kFjV-8" value="AI评测任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="641" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZN-WrgH_UTho_y8kFjV-9" value="新人培训任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="641" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZN-WrgH_UTho_y8kFjV-10" value="规则变更任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="641" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZN-WrgH_UTho_y8kFjV-11" value="实验通用配置" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="715" width="330" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZN-WrgH_UTho_y8kFjV-12" value="时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="743" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZN-WrgH_UTho_y8kFjV-13" value="指标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="743" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZN-WrgH_UTho_y8kFjV-14" value="生效/不生效" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="743" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZN-WrgH_UTho_y8kFjV-15" value="数量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="743" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZN-WrgH_UTho_y8kFjV-16" value="&lt;b&gt;统计平台&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="600" width="350" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZN-WrgH_UTho_y8kFjV-17" value="AI效果监控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="641" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZN-WrgH_UTho_y8kFjV-18" value="新人技能监控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1555" y="641" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZN-WrgH_UTho_y8kFjV-19" value="规则可行监控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="641" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZN-WrgH_UTho_y8kFjV-20" value="观测指标" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="715" width="330" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZN-WrgH_UTho_y8kFjV-21" value="人机一致率" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="743" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZN-WrgH_UTho_y8kFjV-22" value="人审效率" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="743" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZN-WrgH_UTho_y8kFjV-23" value="人审质量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="743" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZN-WrgH_UTho_y8kFjV-24" value="&lt;b&gt;进审&lt;/b&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="460" width="75" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

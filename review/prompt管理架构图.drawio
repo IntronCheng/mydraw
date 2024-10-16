@@ -100,38 +100,164 @@
         <mxCell id="aC-QoINvZlx24a_lO8lH-2" value="敏感词" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="160" y="740" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aC-QoINvZlx24a_lO8lH-3" value="资质信息提取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aC-QoINvZlx24a_lO8lH-3" value="资质信息提取" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="160" y="780" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aC-QoINvZlx24a_lO8lH-4" value="文本夸大" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aC-QoINvZlx24a_lO8lH-4" value="文本夸大" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="270" y="740" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aC-QoINvZlx24a_lO8lH-5" value="图片夸大" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aC-QoINvZlx24a_lO8lH-5" value="图片夸大" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="270" y="780" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aC-QoINvZlx24a_lO8lH-6" value="视频夸大" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aC-QoINvZlx24a_lO8lH-6" value="视频夸大" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="270" y="820" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aC-QoINvZlx24a_lO8lH-7" value="医疗超广审" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aC-QoINvZlx24a_lO8lH-7" value="医疗超广审" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="160" y="820" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aC-QoINvZlx24a_lO8lH-8" value="文本低俗" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="aC-QoINvZlx24a_lO8lH-8" value="文本低俗" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="380" y="740" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aC-QoINvZlx24a_lO8lH-9" value="图片低俗" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="aC-QoINvZlx24a_lO8lH-9" value="图片低俗" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="380" y="780" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aC-QoINvZlx24a_lO8lH-10" value="视频低俗" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="aC-QoINvZlx24a_lO8lH-10" value="视频低俗" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="380" y="820" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aC-QoINvZlx24a_lO8lH-11" value="封建迷信" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="aC-QoINvZlx24a_lO8lH-11" value="封建迷信" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="490" y="740" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aC-QoINvZlx24a_lO8lH-12" value="推广内容单一" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="aC-QoINvZlx24a_lO8lH-12" value="推广内容单一" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="490" y="780" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aC-QoINvZlx24a_lO8lH-14" value="业务 AI 层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="26.25" y="780" width="87.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-15" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="140" y="936" width="450" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="aC-QoINvZlx24a_lO8lH-16" target="aC-QoINvZlx24a_lO8lH-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-16" value="加载业务AI prompt模板" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="160" y="956" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-17" value="prompt模板带有生效范围：行业、主体" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="255" y="951" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="aC-QoINvZlx24a_lO8lH-18" target="aC-QoINvZlx24a_lO8lH-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-18" value="prompt处理" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1016" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-19" value="构造标注化&lt;div&gt;混元请求&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1076" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-20" value="行业过滤、参数替换" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="255" y="1011" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-21" value="根据不同类型模型分别构造" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="255" y="1071" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-24" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="1116" as="sourcePoint" />
+            <mxPoint x="390" y="956" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="aC-QoINvZlx24a_lO8lH-25" target="aC-QoINvZlx24a_lO8lH-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-25" value="大模型&lt;div&gt;结果解析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="414" y="1076" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-26" value="结果返回" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="414" y="956" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-28" value="缓存、上报" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="502.5" y="1071" width="77.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-29" value="封装结构化返回" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="502.5" y="951" width="67.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-30" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="620" y="936" width="90" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-31" value="缓存" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="632.5" y="961" width="65" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-32" value="限流" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="633" y="1002" width="65" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-33" value="监控告警" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="632.5" y="1043" width="65" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-34" value="配置中心" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="632.5" y="1083.5" width="65" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-35" value="大模型服务层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="26.25" y="1021" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-36" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1206" width="450" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-37" value="&lt;div&gt;文生文&lt;br&gt;&lt;/div&gt;hunyuan" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1236" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-38" value="&lt;div&gt;文生文&lt;br&gt;&lt;/div&gt;hunyuan-13B" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="255" y="1236" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-39" value="&lt;div&gt;文生文&lt;/div&gt;hunyuan-standard" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1236" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-40" value="&lt;div&gt;图升文&lt;/div&gt;hunyuan-vision" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="475" y="1236" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-41" value="&lt;b&gt;混元模型&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1209" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="aC-QoINvZlx24a_lO8lH-41" target="aC-QoINvZlx24a_lO8lH-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-43" value="混元支持层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="30" y="1241" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-44" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="186" y="880" as="sourcePoint" />
+            <mxPoint x="186" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-45" value="结构化信息：&lt;div&gt;业务AI名称、&lt;span style=&quot;background-color: initial;&quot;&gt;reviewData、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;prompt变量&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="223" y="880" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-46" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="186.5" y="1152" as="sourcePoint" />
+            <mxPoint x="186.5" y="1192" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-47" value="标准化混元请求" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="223.5" y="1152" width="96.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-48" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="474" y="1192" as="sourcePoint" />
+            <mxPoint x="474" y="1152" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-49" value="标准化混元返回" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="505" y="1152" width="96.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-50" value="结构化混元返回" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="494" y="880" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aC-QoINvZlx24a_lO8lH-51" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="475" y="915" as="sourcePoint" />
+            <mxPoint x="475" y="875" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
